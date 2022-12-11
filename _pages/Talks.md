@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /Talks2/
-title: Talks2
+permalink: /Talks/
+title: Talks
 description: 
 nav: true
 nav_order: 4
