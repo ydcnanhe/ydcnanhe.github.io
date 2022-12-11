@@ -1,7 +1,7 @@
 ---
-layout: cv
+layout: pages
 permalink: /cv/
 title: <a href='#'>Affiliations</a>
-nav: false
+nav: true
 nav_order: 4
 ---
