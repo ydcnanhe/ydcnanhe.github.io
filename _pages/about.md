@@ -6,7 +6,7 @@ subtitle: postdoc at <a href='https://hkust.edu.hk/'>HKUST</a>
 
 profile:
   align: right
-  image: profile_cartoon1.png
+  image: profile_cartoon3.png
   image_circular: false # crops the image to make it circular
   address: >
     <!--- <p>The Hong Kong University of Science and Technology</p> 
