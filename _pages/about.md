@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: postdoc at <a href='https://hkust.edu.hk/'>HKUST</a>
 
