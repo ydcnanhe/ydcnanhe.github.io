@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: page
 permalink: /cv/
 title: <a href='#'>Affiliations</a>
 nav: true
