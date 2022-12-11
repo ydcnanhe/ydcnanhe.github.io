@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: DUET-ISR
+description: A blind source separation algorithm separating any number of sources with two (or more) microphones
 img: assets/img/12.jpg
 importance: 1
-category: work
+category:
 ---
 
 Every project has a beautiful feature showcase page.
