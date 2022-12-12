@@ -19,4 +19,15 @@ social: true  # includes social icons at the bottom of the page
 ---
 ## Bio
 
-I am now a postdoctoral researcher at The Hong Kong University of Science and Technology (HKUST). I graduated from The Unversity of Sicence and Technology of China (USTC) in 2017 with a bachelor degree in Applied Physics, and received my Ph.D. in Indutrial Engeneering and Decision Analytics from HKUST in 2022.  
+I am a postdoctoral researcher at The Hong Kong University of Science and Technology (HKUST) since 2022. I graduated from The Unversity of Sicence and Technology of China (USTC) in 2017 with a bachelor degree in Applied Physics, and received my Ph.D. in Indutrial Engeneering and Decision Analytics from HKUST in 2022.  
+
+## Research interests
+
+Audio signal processing, including but not limited to separation (also known as the cocktail party problem), denoising, localization, recognition;   
+
+Statistical signal processing, especially involving sparsity pursuing, compressive sensing, and sparse representation.
+
+
+## Contact
+
+Email: yhebh@connect.ust.hk
