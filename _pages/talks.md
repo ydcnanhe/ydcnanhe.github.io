@@ -13,4 +13,4 @@ nav_order: 4
 <br>
 <small><span style="color: #999999">Presentation, Marina Bay Sands Expo & Convention Center, May 22, 2022</span>
 <br>
-We present out paper "Harvesting Partially-Disjoint Time-Frequency Information for Improving Degenerate Unmixing Estimation Technique".</small></p>
+We present our paper "Harvesting Partially-Disjoint Time-Frequency Information for Improving Degenerate Unmixing Estimation Technique".</small></p>
