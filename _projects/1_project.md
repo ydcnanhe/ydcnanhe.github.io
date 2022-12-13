@@ -18,25 +18,25 @@ Humans are born with selective hearing ability. Algorithms that simulate this fu
     </div>
 </div>
 <div class="caption">
-    Some application scenarios that a speech separation algorithm may provide help in noisy (multiple people) environments. 
+    Some application scenarios that a speech separation algorithm may provide help in noisy (multiple people) environments.
 </div>
 
 ***DUET-ISR*** is such an algorithm that we provided to realize speech separation. It has the following advantages:
 
-- **Versatility**: can separate any number of speakers using just two mictrophones. 
+- **Versatility**: can separate any number of speakers using just two mictrophones.
 - **Simplicity**: a simple processing structure, first masking, then spatial filtering. Utilizing two basic spatial cues, time delay and amplitude attenuation.
 - **Robustness**: good separation performance under reverberant environments.
 - **Analyzability**: non-deep learning framework, a completely analytical algorithm.
 - **Convinience**: can be used directly, no need to train.
 
-## Demo 
+## Demo
 <hr>
-
+test whether Atom can commit my changes to github.
 More demos can be found [here](https://ydcnanhe.github.io/demo-icassp2022/)).
 
 
 
-## Code 
+## Code
 <hr>
 
 Matlab code is available [here](https://github.com/ydcnanhe/codes-icassp-2022). This repo also contains other blind source separation algorithms.
