@@ -7,9 +7,8 @@ nav: true
 nav_order: 3
 ---
 
-<h2>The Hong Kong University of Science and Technology</h2>
+<h3>The Hong Kong University of Science and Technology</h3>
 
-<br>
 <p>IEDA2100S - Computing in Industrial Applications, Spring 2018-19, TA</p>
 
 IEDA2100S - Computing in Industrial Applications, Spring 2019-20, TA
