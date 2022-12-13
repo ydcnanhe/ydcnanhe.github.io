@@ -31,7 +31,7 @@ Humans are born with selective hearing ability. Algorithms that simulate this fu
 
 ## Demo
 <hr>
-test whether Atom can commit my changes to github.
+test whether Atom can fetch changes
 More demos can be found [here](https://ydcnanhe.github.io/demo-icassp2022/)).
 
 
