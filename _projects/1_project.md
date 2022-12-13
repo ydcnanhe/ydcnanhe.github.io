@@ -7,6 +7,9 @@ importance: 1
 category:
 ---
 
+## Introduction
+<hr>
+
 Humans are born with selective hearing ability. Algorithms that simulate this function can be of great help in many applications in noisy environments, such as hearing aids, voice assistants, hands-free communication, teleconferencing, and humanoid robots with auditory systems.
 
 <div class="row">
@@ -26,8 +29,19 @@ Humans are born with selective hearing ability. Algorithms that simulate this fu
 - **Analyzability**: non-deep learning framework, a completely analytical algorithm.
 - **Convinience**: can be used directly, no need to train.
 
-**Demo**
+## Demo 
+<hr>
 
+More demos can be found [here](https://ydcnanhe.github.io/demo-icassp2022/)).
+
+
+
+## Code 
+<hr>
+
+Matlab code is available [here](https://github.com/ydcnanhe/codes-icassp-2022). This repo also contains other blind source separation algorithms.
+
+<hr>
 Reference:
 
 He, Yudong, He Wang, Qifeng Chen, and Richard HY So. "Harvesting Partially-Disjoint Time-frequency Information for Improving Degenerate Unmixing Estimation Technique." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 506-510. IEEE, 2022.
