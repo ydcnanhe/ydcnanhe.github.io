@@ -18,10 +18,16 @@ Humans are born with selective hearing ability. Algorithms that simulate this fu
     Some application scenarios that a speech separation algorithm may provide help in noisy (multiple people) environments. 
 </div>
 
-***DUET-ISR*** is such an algorithm that we provided to separate any number of speakers using just two (or more) microphones. It has the following advantages:
+***DUET-ISR*** is such an algorithm that we provided to realize speech separation. It has the following advantages:
 
-- **Versatility**: 
-- **Simplicity**:
-- **Robustness**:
-- **Analyzability**:
-- **Convinience**:
+- **Versatility**: can separate any number of speakers using just two mictrophones. 
+- **Simplicity**: a simple processing structure, first masking, then spatial filtering. Utilizing two basic spatial cues, time delay and amplitude attenuation.
+- **Robustness**: good separation performance under reverberant environments.
+- **Analyzability**: non-deep learning framework, a completely analytical algorithm.
+- **Convinience**: can be used directly, no need to train.
+
+**Demo**
+
+Reference:
+
+He, Yudong, He Wang, Qifeng Chen, and Richard HY So. "Harvesting Partially-Disjoint Time-frequency Information for Improving Degenerate Unmixing Estimation Technique." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 506-510. IEEE, 2022.
