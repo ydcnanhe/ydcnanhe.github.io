@@ -11,6 +11,6 @@ nav_order: 4
 
 <p><b>Presentation at the <a href="https://2022.ieeeicassp.org/"> 2022 IEEE Interational Conference on Acoustics, Speech, and Signal Processing (ICASSP), Singapore</a></b>
 <br>
-<small>Presentation, Marina Bay Sands Expo & Convention Center, May 22, 2022</small>
+<small><span style="color: #999999">Presentation, Marina Bay Sands Expo & Convention Center, May 22, 2022</span>
 <br>
-<small>We present out paper "Harvesting Partially-Disjoint Time-Frequency Information for Improving Degenerate Unmixing Estimation Technique".</small></p>
+We present out paper "Harvesting Partially-Disjoint Time-Frequency Information for Improving Degenerate Unmixing Estimation Technique".</small></p>
