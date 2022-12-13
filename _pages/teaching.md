@@ -9,7 +9,9 @@ nav_order: 3
 
 <h3>The Hong Kong University of Science and Technology</h3>
 
-<p>IEDA2100S - Computing in Industrial Applications, Spring 2018-19, TA</p>
+<hr>
+
+IEDA2100S - Computing in Industrial Applications, Spring 2018-19, TA
 
 IEDA2100S - Computing in Industrial Applications, Spring 2019-20, TA
 
