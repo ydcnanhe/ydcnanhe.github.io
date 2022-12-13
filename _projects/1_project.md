@@ -18,4 +18,10 @@ Humans are born with selective hearing ability. Algorithms that simulate this fu
     Some application scenarios that a speech separation algorithm may provide help in noisy (multiple people) environments. 
 </div>
 
-DUET-ISR is a algorithm that we provided to separate any number of speakers using just two (or more) microphones. It has the following advantages:
+***DUET-ISR*** is such an algorithm that we provided to separate any number of speakers using just two (or more) microphones. It has the following advantages:
+
+- **Versatility**: 
+- **Simplicity**:
+- **Robustness**:
+- **Analyzability**:
+- **Convinience**:
