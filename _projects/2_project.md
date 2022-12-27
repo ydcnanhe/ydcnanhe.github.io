@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: Online DUET-ISR
+description: An online directional speech-enhancement/denoising algorithm with two (or more) microphones.
+img: assets/img/Online_DUET_ISR_cover.jpg
 importance: 2
 category: work
 ---
