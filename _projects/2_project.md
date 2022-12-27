@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Online DUET-ISR
+title: Online <br> DUET-ISR
 description: An online directional speech-enhancement/denoising algorithm with two (or more) microphones.
 img: assets/img/Online_DUET_ISR_cover.jpg
 importance: 2
