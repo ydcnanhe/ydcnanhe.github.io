@@ -10,13 +10,13 @@ category: work
 ## Introduction
 <hr>
 
-Have you ever encountered the following embarrassing situations? You try to make a phone call at a subway station but the surroundings are very noisy. Or you are enjoying your vacation outdoors, listening to the sound of nature but the surrounding conversation is disturbing you. Online DUET-ISR is a **real-time** algorithm you need to get out of these situations. The algorithm can *enhance the sound from the desired direction and suppresses surrounding noise*. Or oppositely, it can *suppress the noise from the pointed direction and remains the surrounding sounds*.
+Have you ever encountered the following embarrassing situations? You try to make a phone call at a subway station but the surroundings are very noisy. Or you are enjoying your vacation outdoors, listening to the sound of nature but the surrounding conversation is disturbing you. Online DUET-ISR is a **real-time** algorithm you need to get out of these situations. The algorithm can **enhance the sound from the desired direction and suppresses surrounding noise**. Or oppositely, it can **suppress the noise from the pointed direction and remains the surrounding sounds**.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/directional enhancement.jpg" title="directional enhancement" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
+    <div class="col-sm-6 mt-3 mt-md-0">
         {% include figure.html path="assets/img/directional denoising.jpg" title="directional denoising" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
