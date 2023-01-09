@@ -26,7 +26,7 @@ Have you ever encountered the following embarrassing situations? You try to make
     Illustration of the two main functions of Online DUET-ISR. (a) Directional enhancement. (b) Directional denoising.
 </div>
 
-## demo
+## Demo
 <hr>
 
 We show an application of this algorithm in a subway station scene. The recording was made with real equipment (two omnidirectional microphones with a distance of about 2 cm) in a real Chinese subway station. In the recording, we can hear a woman (one of our colleagues) repeating "one, two, three, ..., ten" in Chinese. At the same time, we can hear the platform announcement, train running, braking, door opening, door closing and other ambient sounds.
