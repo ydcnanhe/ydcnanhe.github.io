@@ -9,7 +9,7 @@ profile:
   image: profile_cartoon3.png
   image_circular: false # crops the image to make it circular
   address: >
-    <!--- <p>The Hong Kong University of Science and Technology</p> 
+    <!--- <p>The Hong Kong University of Science and Technology</p>
     <p>Clear Water Bay</p>
     <p>Hong Kong, China</p> --->
 
@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ## Bio
 
-I am a postdoctoral researcher at The Hong Kong University of Science and Technology (HKUST) since 2022. I graduated from The Unversity of Sicence and Technology of China (USTC) in 2017 with a bachelor degree in Applied Physics, and received my Ph.D. in Indutrial Engeneering and Decision Analytics from HKUST in 2022.  
+I am currently a postdoctoral researcher at The Hong Kong University of Science and Technology (HKUST). I graduated from The Unversity of Sicence and Technology of China (USTC) in 2017 with a bachelor degree in Applied Physics, and received my Ph.D. in Indutrial Engeneering and Decision Analytics from HKUST in 2022.  
 
 ## Research interests
 
