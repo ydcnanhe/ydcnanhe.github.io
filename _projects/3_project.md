@@ -1,7 +1,7 @@
 ---
 layout: page
-title: In Construction # Dissertation technology display
-description: I will show demos of three projects from my PhD thesis
+title: Demos from PhD Thesis # Dissertation technology display
+description: I will show demos of three projects from my PhD thesis (in construction)
 img: assets/img/7.jpg
 importance: 3
 category: work
