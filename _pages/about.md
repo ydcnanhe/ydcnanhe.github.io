@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 ## Bio
 
-I am currently a postdoctoral researcher at The Hong Kong University of Science and Technology (HKUST). I graduated from The Unversity of Sicence and Technology of China (USTC) in 2017 with a bachelor degree in Applied Physics, and received my Ph.D. in Indutrial Engeneering and Decision Analytics from HKUST in 2022.  
+I am currently a postdoctoral researcher at The Hong Kong University of Science and Technology (HKUST). I graduated from The University of Science and Technology of China (USTC) in 2017 with a bachelor degree in Applied Physics, and received my Ph.D. in Industrial Engineering and Decision Analytics from HKUST in 2022.
 
 ## Research interests
 
