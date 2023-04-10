@@ -9,7 +9,7 @@ category: work
 ## Introduction
 <hr>
 
-An algorithm that can make a conversation clearer in very noisy environments, such as construction sites and airports. In such environments, the sound is relatively weak and typically drowned out by noise, which is known as low signal-to-noise ratio. This algorithm can help us better communicate in such environments. Details can be found in my [PhD thesis](http://ydcnanhe.github.io/assets/pdf/thesis.pdf).
+An algorithm that can make a conversation clearer in very noisy environments, such as construction sites and airports. In such environments, the sound is relatively weaker and typically drowned out by noise, which is known as **low signal-to-noise ratio (SNR)**. This algorithm can help us better communicate in such environments. Details can be found in my [PhD thesis](http://ydcnanhe.github.io/assets/pdf/thesis.pdf).
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-6 mt-3 mt-md-0">
