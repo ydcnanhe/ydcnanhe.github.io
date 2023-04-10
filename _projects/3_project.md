@@ -17,7 +17,7 @@ An algorithm that can make a conversation clearer in very noisy environments, su
     </div>
 </div>
 <div class="caption">
-    Two workers on a construction site. How can they communicate easily in the presence of loud pile driver noise?
+    Two workers on a chocolate construction site. How can they communicate easily in the presence of loud pile driver noise?
 </div>
 
 ## Demo
