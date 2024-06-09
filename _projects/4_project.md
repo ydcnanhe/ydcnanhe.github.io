@@ -19,6 +19,18 @@ We have uploaded the [original paper](https://arxiv.org/abs/2402.14490v3) on arX
 ## Example
 <hr>
 
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="https://github.com/ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means/assets/52923246/8798b7d4-6935-457a-b926-d5118899b9f7" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
+<div class="row justify-content-sm-center">
+    <div class="col-sm-6 mt-3 mt-md-0">
+        {% include figure.html path="https://github.com/ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means/assets/52923246/f62bf735-0936-4f6a-9bc9-72b4c7115c8a" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 ![image](https://github.com/ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means/assets/52923246/8798b7d4-6935-457a-b926-d5118899b9f7)
 ![image](https://github.com/ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means/assets/52923246/f62bf735-0936-4f6a-9bc9-72b4c7115c8a)
 ![image](https://github.com/ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means/assets/52923246/9ac03f80-d7d6-4a84-b2b9-f90bfc78259c)
