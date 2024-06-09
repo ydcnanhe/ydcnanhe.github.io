@@ -19,10 +19,11 @@ We have uploaded the [original paper](https://arxiv.org/abs/2402.14490v3) on arX
 ## Example
 <hr>
 
-![image](https://github.com/ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means/assets/52923246/8798b7d4-6935-457a-b926-d5118899b9f7 =500x100)
-![image](https://github.com/ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means/assets/52923246/f62bf735-0936-4f6a-9bc9-72b4c7115c8a =500x100)
-![image](https://github.com/ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means/assets/52923246/9ac03f80-d7d6-4a84-b2b9-f90bfc78259c =500x100)
-![image](https://github.com/ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means/assets/52923246/552dccda-5f80-4810-a258-fbd56f4ea041 =500x100)
+<div class="row justify-content-sm-center">
+    <div class="col-sm-12 mt-12 mt-md-0">
+        {% include figure.html path="assets/img/EKM_example.png" title="ekm_example" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 ## Implementation
 <hr>
