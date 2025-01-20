@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://ydcnanhe.github.io/sitemap.xml
+User-agent: * Disallow: Sitemap: https://ydcnanhe.github.io# the base hostname & protocol for your site/sitemap.xml
