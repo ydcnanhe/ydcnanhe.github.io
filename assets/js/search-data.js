@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "A growing collection of your cool projects.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -442,7 +442,12 @@ ninja.data = [{
             },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
           title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
           description: "",
-          section: "News",},{
+          section: "News",},{id: "projects-duet-isr",
+          title: 'DUET-ISR',
+          description: "A blind source separation algorithm separating any number of sources with two (or more) microphones",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/1_project/";
+            },},{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
