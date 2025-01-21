@@ -4,7 +4,7 @@ title: DUET-ISR
 description: A blind source separation algorithm separating any number of sources with two (or more) microphones
 img: assets/img/DUET_ISR_cover.jpg
 importance: 1
-category:
+category: work
 related_publications: true
 ---
 
