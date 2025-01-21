@@ -431,16 +431,14 @@ ninja.data = [{
           window.location.href = "/blog/2015/formatting-and-links/";
         
       },
-    },{id: "news-a-simple-inline-announcement",
-          title: 'A simple inline announcement.',
+    },{id: "news-our-paper-a-novel-weighted-sparse-component-analysis-for-underdetermined-blind-speech-separation-has-been-accepted-for-presentation-at-icassp-2025-smile-smile",
+          title: 'Our paper “A Novel Weighted Sparse Component Analysis for Underdetermined Blind Speech Separation”...',
           description: "",
-          section: "News",},{id: "news-a-long-announcement-with-details",
-          title: 'A long announcement with details',
+          section: "News",},{id: "news-i-will-give-a-presentation-at-icassp-2025-see-you-in-india-smile",
+          title: 'I will give a presentation at ICASSP 2025. See you in India! :smile:...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
+          section: "News",},{id: "news-our-paper-a-novel-property-to-modify-weighted-l1-minimization-for-improved-compressed-sensing-has-been-accepted-for-publication-in-signal-processing-sparkles-smile",
+          title: 'Our paper “A Novel Property to Modify Weighted l1 Minimization for Improved Compressed Sensing”...',
           description: "",
           section: "News",},{id: "projects-duet-isr",
           title: 'DUET-ISR',
