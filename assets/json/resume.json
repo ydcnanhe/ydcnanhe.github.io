@@ -38,7 +38,7 @@
       "institution": "The Hong Kong University of Sicence and Technology",
       "location": "Hong Kong",
       "url": "https://hkust.edu.hk/",
-      "area": "Singal Processing",
+      "area": "IEDA",
       "studyType": "PhD",
       "startDate": "2018-08-15",
       "endDate": "2022-09-01",
@@ -47,7 +47,7 @@
     },
     {
       "institution": "University of Science and Technology of China",
-      "location": "Hefei",
+      "location": "Hefei, China",
       "url": "https://en.ustc.edu.cn/",
       "area": "Physics",
       "studyType": "Bachelor",
@@ -68,26 +68,22 @@
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Coffee",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Pour Over Coffee",
+        "Geisha",
+        "WBrC",
       ]
+    },
+    {
+      "name": "Tennis",
+      "icon": "fa-solid fa-tag",
+      "keywords": [
+        "Roger Federer",
+        "Wilson",
+        "Grand Slam",
+        "Ace"
     }
   ],
-  "projects": [
-    {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01",
-      "url": "https://example.com"
-    }
-  ]
 }
