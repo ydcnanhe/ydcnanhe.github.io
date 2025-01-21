@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://hkust.edu.hk/'#'>HKUST</a>
+subtitle: <a href=https://hkust.edu.hk>HKUST</a>
 
 profile:
   align: right
