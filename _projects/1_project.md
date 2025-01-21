@@ -1,81 +1,65 @@
 ---
 layout: page
-title: project 1
-description: with background image
-img: assets/img/12.jpg
+title: DUET-ISR
+description: A blind source separation algorithm separating any number of sources with two (or more) microphones
+img: assets/img/DUET_ISR_cover.jpg
 importance: 1
-category: work
-related_publications: true
+category:
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Introduction
+<hr>
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Humans are born with selective hearing ability. Algorithms that simulate this function can be of great help in many applications in noisy environments, such as hearing aids, voice assistants, hands-free communication, teleconferencing, and humanoid robots with auditory systems.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/voice_assistant.jpg" title="bss application 1" class="img-fluid rounded z-depth-1" %}
     </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/hand-free_communication.jpg" title="bss application 2" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/conference_call.jpg" title="bss application 3" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm-3 mt-3 mt-md-0">
+        {% include figure.html path="assets/img/humanoid_robot.jpg" title="bss application 4" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
+    Some application scenarios that a speech separation algorithm may provide help in noisy (multiple people) environments.
 </div>
 
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
+***DUET-ISR*** is such an algorithm that we proposed to realize speech separation. It has the following advantages:
 
-{% raw %}
+- **Versatility**: can separate any number of speakers using just two mictrophones.
+- **Simplicity**: a simple processing structure, first masking, then spatial filtering. Utilizing two basic spatial cues, time delay and amplitude attenuation.
+- **Robustness**: good separation performance under reverberant environments.
+- **Analyzability**: non-deep learning framework, a completely analytical algorithm.
+- **Convinience**: can be used directly, no need to train.
 
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
+## Demo
+<hr>
 
-{% endraw %}
+We show an example when we try to separate four speakers' speeches in the reverberation of 130 ms. We only show one mixture (in total two) and one demixed signal (in total four).
+
+[source](http://ydcnanhe.github.io/assets/audio/project1/2mix4src130ms_sources_1.wav)
+
+[mixture](http://ydcnanhe.github.io/assets/audio/project1/2mix4src130ms_mixtures_mixture1.wav)
+
+[demix](http://ydcnanhe.github.io/assets/audio/project1/2mix4src130ms_duet-isr_demixed1.wav)
+
+
+More demos and comparison with other algorithms can be found [here](https://ydcnanhe.github.io/demo-icassp2022/).
+
+
+
+## Code
+<hr>
+
+Matlab code is available [here](https://github.com/ydcnanhe/codes-icassp-2022). This repo also contains other blind source separation algorithms.
+
+<hr>
+Reference:
+
+He, Yudong, He Wang, Qifeng Chen, and Richard HY So. "Harvesting Partially-Disjoint Time-frequency Information for Improving Degenerate Unmixing Estimation Technique." In ICASSP 2022-2022 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), pp. 506-510. IEEE, 2022.
