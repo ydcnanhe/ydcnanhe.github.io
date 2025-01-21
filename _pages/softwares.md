@@ -1,7 +1,7 @@
 ---
 layout: page
 title: softwares
-permalink: /projects/
+permalink: /softwares/
 description:
 nav: true
 nav_order: 3
