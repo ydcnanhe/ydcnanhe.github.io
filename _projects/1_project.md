@@ -15,16 +15,16 @@ Humans are born with selective hearing ability. Algorithms that simulate this fu
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/voice_assistant.jpg" title="bss application 1" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/voice_assistant.jpg" title="bss application 1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/hand-free_communication.jpg" title="bss application 2" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/hand-free_communication.jpg" title="bss application 2" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/conference_call.jpg" title="bss application 3" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/conference_call.jpg" title="bss application 3" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-3 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/humanoid_robot.jpg" title="bss application 4" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/humanoid_robot.jpg" title="bss application 4" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
