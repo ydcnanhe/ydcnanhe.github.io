@@ -468,6 +468,13 @@ ninja.data = [{
           window.open("mailto:%79%75%64%6F%6E%67@%75%73%74.%68%6B", "_blank");
         },
       },{
+        id: 'social-instagram',
+        title: 'Instagram',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://instagram.com/he.yudong", "_blank");
+        },
+      },{
         id: 'social-custom_social',
         title: 'Custom_social',
         section: 'Socials',
