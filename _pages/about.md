@@ -2,15 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href=https://hkust.edu.hk/'#'>HKUST</a>.
+subtitle: <a href=https://hkust.edu.hk/'#'>HKUST</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Rm 5568</p>
-    <p>Clear Water Bay</p>
+    <p>Shek Lung Tsai Stone Forest</p>
     <p>Hong Kong</p>
 
 news: true # includes a list of news items
@@ -30,7 +29,3 @@ Statistical signal processing, especially involving sparsity pursuing, compressi
 ### Contact
 
 Email: yudong@ust.hk
-
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
