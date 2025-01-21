@@ -66,25 +66,34 @@
       "summary": "Recommended for admission to USTC without National College Entrance Examination"
     }
   ],
-  "interests": [
-    {
-      "name": "Coffee",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Pour Over Coffee",
-        "Geisha",
-        "WBrC"
-      ]
-    },
-    {
-      "name": "Tennis",
-      "icon": "fa-solid fa-tag",
-      "keywords": [
-        "Roger Federer",
-        "Wilson",
-        "Grand Slam",
-        "Ace"
-      ]
-    }
-  ]
+"interests": [
+  {
+    "name": "Coffee",
+    "icon": "fa-solid fa-tag",
+    "keywords": [
+      "Pour Over Coffee",
+      "Geisha",
+      "WBrC"
+    ]
+  },
+  {
+    "name": "Tenis",
+    "icon": "fa-solid fa-tag",
+    "keywords": [
+      "Roger Federer",
+      "Ace",
+      "Grand Slam"
+    ]
+  }
+],
+"projects": [
+  {
+    "name": "Quantum Computing",
+    "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
+    "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
+    "startDate": "2018-01-01",
+    "endDate": "2018-01-01",
+    "url": "https://example.com"
+  }
+]
 }
