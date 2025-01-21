@@ -452,6 +452,16 @@ ninja.data = [{
           description: "An online directional enhancement/denoising algorithm with two (or more) microphones.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project/";
+            },},{id: "projects-denoising-in-low-snr-environment",
+          title: 'Denoising in Low SNR Environment',
+          description: "An algorithm for clear conversation in noisy environments",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/3_project/";
+            },},{id: "projects-imbalanced-data-clustering",
+          title: 'Imbalanced Data Clustering',
+          description: "A simple k-means type algorithm for clustering imbalanced data",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_project/";
             },},{
         id: 'social-email',
         title: 'email',
