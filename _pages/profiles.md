@@ -20,7 +20,7 @@ profiles:
     content: about_rhyso.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>Prof. Richard So/p>
+      <p>Prof. Richard So</p>
       <p>My Phd Supervisor</p>
       <p>HKUST</p>
 ---
