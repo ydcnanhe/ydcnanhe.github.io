@@ -24,7 +24,9 @@ I am currently a postdoctoral researcher at The Hong Kong University of Science 
 
 Audio signal processing, including but not limited to separation (also known as the cocktail party problem), denoising, localization, recognition;   
 
-Statistical signal processing, especially involving sparsity pursuing, compressive sensing, and sparse representation.
+Statistical signal processing, especially involving sparsity pursuing, compressive sensing, and sparse representation;
+
+Fuzzy clustering, especially for unequal size classes (imbalanced data)
 
 ### Contact
 
