@@ -11,18 +11,16 @@ profiles:
   # and create one content file for each profile inside _pages/
   - align: right
     image: prof_pic.jpg
-    content: about_einstein.md
+    content: about_yd.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>[Yudong He](https://ydcnanhe.github.io/)</p>
   - align: left
-    image: prof_pic.jpg
-    content: about_einstein.md
+    image: prof_rhyso.jpg
+    content: about_rhyso.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p>[Richard So](https://seng.hkust.edu.hk/about/people/faculty/richard-hau-yue-so)</p>
+      <p>My Phd Supervisor</p>
+      <p>HKUST</p>
 ---
