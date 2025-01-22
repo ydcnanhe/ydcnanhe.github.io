@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: people
-description: members of the lab or group
+description: some people I know
 nav: true
 nav_order: 7
 
@@ -14,13 +14,13 @@ profiles:
     content: about_yd.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>[Yudong He](https://ydcnanhe.github.io/)</p>
+      <p>Dr. Yudong He</p>
   - align: left
     image: prof_rhyso.jpg
     content: about_rhyso.md
     image_circular: false # crops the image to make it circular
     more_info: >
-      <p>[Richard So](https://seng.hkust.edu.hk/about/people/faculty/richard-hau-yue-so)</p>
+      <p>Prof. Richard So/p>
       <p>My Phd Supervisor</p>
       <p>HKUST</p>
 ---
