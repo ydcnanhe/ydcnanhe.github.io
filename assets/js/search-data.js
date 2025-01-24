@@ -211,11 +211,11 @@ ninja.data = [{
           window.location.href = "/blog/2024/chartjs/";
         
       },
-    },{id: "post-test",
+    },{id: "post-君子可欺之以方",
       
-        title: "test",
+        title: "君子可欺之以方",
       
-      description: "君子可欺之以方",
+      description: "何谓“君子可欺以其方，难罔以非其道”",
       section: "Posts",
       handler: () => {
         
