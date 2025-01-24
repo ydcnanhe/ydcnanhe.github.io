@@ -211,6 +211,17 @@ ninja.data = [{
           window.location.href = "/blog/2024/chartjs/";
         
       },
+    },{id: "post-test",
+      
+        title: "test",
+      
+      description: "the first post for test",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/test/";
+        
+      },
     },{id: "post-a-post-with-tikzjax",
       
         title: "a post with TikZJax",
