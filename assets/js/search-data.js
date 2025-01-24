@@ -211,17 +211,6 @@ ninja.data = [{
           window.location.href = "/blog/2024/chartjs/";
         
       },
-    },{id: "post-君子可欺以其方",
-      
-        title: "君子可欺以其方",
-      
-      description: "何谓“君子可欺以其方，难罔以非其道”",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2024/huam-nature-is-good/";
-        
-      },
     },{id: "post-test",
       
         title: "test",
