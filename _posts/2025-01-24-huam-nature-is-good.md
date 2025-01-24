@@ -4,6 +4,7 @@ title: test
 date: 2024-01-24 20:06:00
 description: 君子可欺之以方
 tags: 国文
+featured: true
 ---
 
 ### 君子可欺以其方，难罔以非其道
