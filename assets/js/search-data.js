@@ -211,9 +211,9 @@ ninja.data = [{
           window.location.href = "/blog/2024/chartjs/";
         
       },
-    },{id: "post-君子可欺之以方",
+    },{id: "post-君子可欺以其方",
       
-        title: "君子可欺之以方",
+        title: "君子可欺以其方",
       
       description: "何谓“君子可欺以其方，难罔以非其道”",
       section: "Posts",
