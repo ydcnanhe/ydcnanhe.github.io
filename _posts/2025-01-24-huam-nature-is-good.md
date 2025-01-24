@@ -1,8 +1,8 @@
 ---
 layout: post
-title: test
+title: 君子可欺之以方
 date: 2024-01-24 20:06:00
-description: 君子可欺之以方
+description: 何谓“君子可欺以其方，难罔以非其道”
 tags: 国文
 featured: true
 ---
