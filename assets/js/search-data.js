@@ -215,6 +215,17 @@ ninja.data = [{
       
         title: "test",
       
+      description: "君子可欺之以方",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2024/huam-nature-is-good/";
+        
+      },
+    },{id: "post-test",
+      
+        title: "test",
+      
       description: "the first post for test",
       section: "Posts",
       handler: () => {
