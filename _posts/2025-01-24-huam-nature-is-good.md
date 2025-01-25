@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 君子可欺以其方
-date: 2025-01-24 20:06:00
+date: 2025-01-24 20:10:00
 description: 何谓“君子可欺以其方，难罔以非其道”
 tags: 国文
 featured: true
