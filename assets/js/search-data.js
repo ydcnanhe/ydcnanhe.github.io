@@ -79,18 +79,7 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "";
               },
-            },{id: "post-君子可欺以其方",
-      
-        title: "君子可欺以其方",
-      
-      description: "何谓“君子可欺以其方，难罔以非其道”",
-      section: "Posts",
-      handler: () => {
-        
-          window.location.href = "/blog/2025/huam-nature-is-good/";
-        
-      },
-    },{id: "post-灵巧像蛇-纯真像鸽",
+            },{id: "post-灵巧像蛇-纯真像鸽",
       
         title: "灵巧像蛇，纯真像鸽",
       
@@ -99,6 +88,17 @@ ninja.data = [{
       handler: () => {
         
           window.location.href = "/blog/2025/guileless-as-doves/";
+        
+      },
+    },{id: "post-君子可欺以其方",
+      
+        title: "君子可欺以其方",
+      
+      description: "何谓“君子可欺以其方，难罔以非其道”",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/huam-nature-is-good/";
         
       },
     },{id: "post-a-post-with-image-galleries",
