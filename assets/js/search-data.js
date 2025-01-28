@@ -90,6 +90,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/huam-nature-is-good/";
         
       },
+    },{id: "post-灵巧像蛇-纯真像鸽",
+      
+        title: "灵巧像蛇，纯真像鸽",
+      
+      description: "面对如今世界败坏洪流的解法",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/guileless-as-doves/";
+        
+      },
     },{id: "post-a-post-with-image-galleries",
       
         title: "a post with image galleries",
