@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 灵巧像蛇，纯真像鸽
-date: 2025-01-24 03:52:00
+date: 2025-01-28 03:52:00
 description: 面对如今世界败坏洪流的解法
 tags: 箴言
 featured: true
