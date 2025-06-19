@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper ["Improving Equilibrium K-Means by Partial Supervision for Imbalanced Data Clustering"] has been accepted for publication in Knowledge-based System (IF: 7.2) :sparkles: :smile:
+Congradulation for accepted our paper **"Improving Equilibrium K-Means by Partial Supervision for Imbalanced Data Clustering"** in [Knowledge-based System](https://www.sciencedirect.com/journal/knowledge-based-systems) (IF: 7.2). Well Done! :sparkles: :smile:
