@@ -30,4 +30,4 @@ Fuzzy clustering, especially for unequal size classes (imbalanced data)
 
 ### Contact
 
-Email: yudong@ust.hk
+Email: yhebh@connect.ust.hk
