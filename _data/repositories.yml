@@ -6,3 +6,5 @@ repo_description_lines_max: 2
 github_repos:
   - ydcnanhe/codes-icassp-2022
   - ydcnanhe/Imbalanced-Data-Clustering-using-Equilibrium-K-Means
+  - ydcnanhe/sklearn-ekmeans
+
